@@ -1,0 +1,22 @@
+Wordpress
+FTP: w239947	Dilnycorny72!
+
+Plugin údržba stránky
+	Maintanance mode plugin - CMP
+	CMP settings
+	Themes - to choose
+	Can be costumized
+Plugin registration
+	User registration - by WPEverest
+Dodatek za mailem v dotazech: .uvirt101.active24.cz
+Barva červená: #B30C0C
+Bypass - https://skolnidilny.cz/?cmp_bypass=df8e6ebd84dd05b2ebe68b1bdffa1732
+CO změnit/upravit:
+slevový kod na 25% - SV3PWW5R
+spoluprace@skolnidilny.cz; Spoldilny00!
+
+Úkoly z toho vyplívající:
+	dešťová hůl nemá ceny
+	projít ceny produktů a množstevní slevy - obecně smysl tohoto eshopu
+
+Šárka:
