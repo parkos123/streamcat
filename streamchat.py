@@ -30,6 +30,15 @@ hide_streamlit_style = """
             """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
 
+hide_st_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            header {visibility: hidden;}
+            </style>
+            """
+st.markdown(hide_st_style, unsafe_allow_html=True)
+
 st.header("Vyhledávejte v našem seznamu AI pomocí Chat-GPT")
 
 openai_api_key = st.text_input('Běžte na stránku [OpenAI](https://platform.openai.com/account/api-keys), přihlašte se a zkopírujte API klíč:', type='password')
