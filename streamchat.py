@@ -72,7 +72,7 @@ def createVectorIndex(path):
 
 def answerMe(vectorIndex):
     vIndex = GPTSimpleVectorIndex.load_from_disk(vectorIndex)
-    prompt = st.text_input('Co máš na srdíčku: ')
+    prompt = st.text_input('Zeptejte se našeho bota na cokoliv: ')
     if prompt:
         response = vIndex.query(prompt, response_mode="compact")
         st.write(f"Odpověď: {response}")
