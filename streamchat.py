@@ -49,6 +49,7 @@ selected_model = st.selectbox('Vyberte si model, který chcete, aby náš chat p
 
 st.text("OpenAI dává každému uživateli 18$ k volnému použití. Nemusíte se proto bát, že byste něco platili.")
 st.text("Neberte jeho odpovědi 100% vážně. Bot je ve zkušebním provozu a ještě není optimalizován!")
+st.text("Pro vyhledávání na webu se ho zeptajte na Cestu k dané umělé inteligenci")
 
 def createVectorIndex(path):
     max_input = 8192
