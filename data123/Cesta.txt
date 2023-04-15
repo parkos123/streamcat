@@ -1,0 +1,614 @@
+﻿
+Chováš se jako poradce nebo vyhledávač na stránkách, které obsahují velké množství různých umělých inteligencí. Tvím úkolem je návštěvníkovi vždy správně a slušně poradit s jeho problémem. Máš k dispozici celý seznam všech umělých inteligencí, ve kterém budeš vyhledávat. Informace budeš výhradně brát z tohoto souboru. 
+Struktura souboru: nad každou umělou inteligencí je napsaná cesta, jak se k ní návštěvník může dostat. V každé kategorii Cesta jsou umístěny 3 umělé inteligence, které jsou seřazeny od nejlepší po 3 nejlepší. U nějakých kategorií je i složka "Další" kterou také můžeš využívat.
+
+
+
+Cesta: text – chat:
+ChatGPT
+
+Odpovídá na otázky a hledá informace na různá témataPomáhá s úkoly a projekty z různých oblastíPoskytuje doporučení a poradenství Příklady odvětví, ve kterých může pomoci: vzdělávání, zdravotnictví, cestování, marketing, technologie, finance, programování, generování textu a mnoho dalších…
+
+Návod/ukázka:
+
+Ukázka použítí GPT 3.5 vs GPT 4
+
+Cesta: text – chat:
+Chatbase
+
+je nástroj, který uživatelům umožňuje vytvořit chatbota s umělou inteligencí vycvičeného na jejich datech. Uživatelé mohou nahrát dokument PDF, který chatbot použije k zodpovězení případných otázek, týkajících se obsahu dokumentu. Limit znaků pro dokument je 1,2 milionu znaků a brzy budou moci uživatelé odeslat odkaz na jakékoliv webové stránky, ze kterých chatbot text vyčte. Důležité: Zdarma verze, podpora češtiny
+
+Cesta: text – chat:
+
+Character.AI
+
+je zajímavá chatovací umělá inteligence, která slouží k hraní a zkoušení. Nabízí velké množství osobností a fiktivních postav, avšak v češtině není tak obratná a může obsahovat docela velké nepřesnosti. Důležité: Beta verze, zadarmo
+Cesta: text – chat:
+
+Další...
+
+Jasper.ai je placená aplikace, která je podobná ChatGPT, ale je zaměřena na business, marketing a advertising otázky. Deeply.cz je placená aplikace, která je podobná ChatGPT a je zaměřena na business, marketing a reklamní otázky. Oproti předchozím je zaměřena na češtinu.
+
+Cesta: text – Upravit:
+
+WordAi
+
+je aplikace, která umožňuje přepsat jakýkoliv text na vyšší úroveň, aniž by bylo možné zjistit, že text napsala umělá inteligence.  Důležité: freetrial, angličtina
+
+Cesta: text – Upravit:
+Grammarly
+
+je aplikace, která kontroluje gramatickou správnost textu, dělá citace a kontroluje plagiátorství.  Důležité: Zadarmo, angličtina
+
+Cesta: text – Upravit:
+
+genei
+
+je aplikace, která dokáže shrnout velké dokumenty, vyhledávat v nich, parafrázovat texty a vyhledávat podstatná slova.  Důležité: freetrial, angličtina
+Cesta: text – Upravit:
+
+Další...
+
+QuillBot je aplikace, která slouží k přepisování textu. Umožňuje zlepšit a upgradovat úroveň textu a je k dispozici zdarma. Aplikace je však dostupná pouze v angličtině. DeepL je překladač, který nabízí srozumitelné a smysluplné překlady. Je to silná konkurence pro Google Translator a je k dispozici zdarma v češtině. Dají se vložit celé .docs, pdf nebo .pptx soubory SpinRewriter je aplikace, která umí přepsat články tak, aby vypadaly, že je napsal člověk. Pomáhá tím zvýšit pozici v Google vyhledávání. Je k dispozici v angličtině a nabízí freetrial.
+Cesta: text – Copywriting:
+
+ChatGPT
+
+Odpovídá na otázky a hledá informace na různá témataPomáhá s úkoly a projekty z různých oblastíPoskytuje doporučení a poradenství Co se týče copywritingu, Chat GPT má různé modifikace a rozšíření, které vám poskytnou lepší výsledky Důležité: Zdarma, čeština, copywriting rozšíření
+
+Návod/ukázka:
+
+Ukázka použítí GPT 3.5 vs GPT 4
+Cesta: text – Copywriting:
+
+auto write
+
+Vytvořte článek až o 3000 slovech, který se čte jako od pravého člověka. Nástroje pro detekci umělé inteligence klasifikují tyto články jako „s největší pravděpodobností psané člověkem“. K používání této aplikace není nutná registrace/přihlášení. Stačí navštívit odkaz, zadat nadpis, klíčová slova a upravit nastavení pro vygenerování plnohodnotného článku. Důležité: Zadarmo, při placené verzi-překlad do češtiny
+
+Cesta: text – Copywriting:
+
+copy.ai
+
+je generátor obsahu poháněný umělou inteligencí, který pomáhá firmám a profesionálům rychle a snadno vytvářet vysoce kvalitní a poutavý obsah. Nabízí nástroje a šablony a také asistenta pro psaní, který pomáhá vytvářet obsah pro e-maily, příspěvky na sociálních sítích, dlouhé příspěvky na blogu a další. Obsahuje také editor pro přepisování a vylepšování odstavců a vět. Copy.ai vám pomůže ušetřit čas a zaujmout publikum. Důležité: Zdarma verze, čeština
+
+Cesta: text – Copywriting:
+
+Další...
+
+software, jako je wordtune nebo copysmith, lze nahradit použitím Chat GPT anebo kombinací brancher.ai a Chat GPT. Tyto aplikace nepřidávají nic nového, čeho by nebylo možné dosáhnout s použitím těchto nástrojů.
+
+Cesta: text – Řeč na text a naopak:
+
+Fliki
+
+je software poháněný umělou inteligencí, který pomáhá tvůrcům obsahu převádět text na řeč a vkládat jej do videí s realistickými hlasy v jakémkoliv jazyce. Nabízí také realistické hlasy pro převod textu na řeč ve více než 850 hlasech v 75 různých jazycích. Důležité: Zdarma verze, čeština
+
+Cesta: text – Řeč na text a naopak:
+
+Descript
+
+Tento audio/video editor nabízí nástroje jako je přepis, nahrávání obrazovky nebo  klonování hlasu. Můžete provádět změny nahrávek vymazáním části věty, vytvářet více hlasů a sdílet práci se spolupracovníky. Editor také nabízí vysoce kvalitní knihovnu hlasů. Důležité: Zdarma verze, čeština
+
+Návod/ukázka:
+
+Ukázka použítí
+
+Cesta: text – Řeč na text a naopak:
+
+Verbatik
+
+je software, který převádí text na řeč za pomoci umělé inteligence. Nabízí rostoucí knihovnu s více než 600 přirozeně znějícími hlasy ve 142 jazycích a přízvucích. Umožňuje uživatelům vytvářet vysoce kvalitní zvukové verze článků a dalšího textového obsahu. Důležité: Zdarma verze, čeština
+
+Cesta: text – Řeč na text a naopak:
+
+Další...
+
+Celebrity voice changer je aplikace, která pomocí umělé inteligence změní váš hlas na hlas požadované celebrity nebo použije váš text k vytvoření řeči dané celebrity.
+
+Cesta: text – Překladač:
+
+DeepL
+
+je překladač, který nabízí srozumitelné a smysluplné překlady. Je to silná konkurence pro Google Translator a je k dispozici zdarma v češtině. Dají se vložit celé .docs, pdf nebo .pptx soubory Důležité: Zdarma verze, čeština, ?možná lepší jak Google translator?
+
+Návod/ukázka:
+
+Ukázka použítí
+
+Cesta: text – Překladač:
+
+Translate.video
+
+je nástroj pro překlad videa, který uživatelům umožňuje snadno překládat videa do více jazyků. Nástroj nabízí automatické titulkování, překlad titulků, dabing, hlasový komentář, nahrávání a generování přepisu v jedné snadno použitelné aplikaci. Důležité: Zdarma verze, čeština
+
+Cesta: text – Překladač:
+
+Google - Thing Translator
+
+je software vytvořený Googlem v programu: Experiments with Google. Stačí namířit fotoaparát na věc a aplikace vám pomůže překládat fyzické předměty z jednoho jazyka do druhého. Je to aplikace k experimentování a proto je i její kód volně přístupný. Důležité: Zdarma, čeština, Google translator
+
+Cesta: Obrázky - Generovat:
+
+Midjourney
+
+Tento generátor obrázků nabízí věrohodně vypadající obrázky, které vypadají jako od malíře. Lze je krásně definovat a hrát si se světlem, barvami a dalšími prvky. Obrázky téměř nevypadají jako generované pomocí AI. Vytváří webové designy, loga, portréty a obrázky všeho druhu. Důležité: Discord, freetrial, angličtina
+
+Návod/ukázka:
+
+Ukázka použítí
+
+Cesta: Obrázky - Generovat:
+
+BlueWillow
+
+nabízí podobný generátor obrázků, jako Midjourney, ale kvalita je lehce horší. Pomocí příkazů se dají specifikovat spousty parametrů. Výsledek je jako od malíře. Aplikace je zdarma, ale nabízí méně detailů. Podporuje angličtinu a je k dispozici přes Discord. Důležité: ZDARMA, angličtina, Discord
+
+Cesta: Obrázky - Generovat:
+
+Leonardo.Ai
+
+nabízí spousta možností, jako je generování obrázků pomocí vybraného designu nebo vytvoření vlastní databáze designů. Umožňuje úpravy obrázků v Canva editoru a má uživatelsky přívětivé nastavení parametrů. Nejlépe se generují portréty, ostatní jsou méně detailní a podobné jako v DALL·E 2.  Důležité: 170 obrázků denně, zadarmo, angličtina
+
+Cesta: Obrázky - Generovat:
+
+Další...
+
+Dall•E•2, Stability.ai
+
+Generované obrázky jsou velmi jednoduché a vypadají buď jako animované nebo jako fotky pořízené mobilem. Obrázky mají deformované jednotlivé části, ale některé jsou velmi povedené. Aplikace je zdarma a podporuje angličtinu. Stable Diffusion deformuje obrázky a umožňuje realističtější pohled a prostředí. Je vhodná pro jednoduché prompty v klasickém prostředí a je k dispozici zdarma. Podporuje angličtinu. AutoDraw je aplikace, která předělá vaše skicy/náčrtky na profesionální kresby. Rozhodně stojí za vyzkoušení, pokud potřebujete jednoduché kresby a nechcete je zakupovat.
+
+Cesta: Obrázky - Upravit:
+
+LeiaPix Convertor
+
+umožňuje okamžitý převod 2D snímků na krásné 3D snímky. Z obrázku se udělá krátká animace, která ukazuje obrázek z různých úhlů. Export do formátu Leia Image Format, Side-By-Side 3D, Depth Map nebo Lightfield Animation. Důležité: Zdarma, nutnost přihlášení
+
+Cesta: Obrázky - Upravit:
+Cesta: Obrázky - Upravit:
+
+Segment Anything
+
+Nový nástroj počítačového vidění společnosti Meta umožňuje nahrát libovolný obrázek a vybrat v něm konkrétní prvky. Tento nástroj lze použít i na video a pomáhá segmentovat a identifikovat objekty ve videu. Vyberete prvky a následně je můžete jednoduše vystřihnout. Důležité: Zdarma, Demo verze
+
+Cesta: Obrázky - Upravit:
+
+AI Image Upscaler
+
+je webová stránka, která nabízí nástroje s umělou inteligencí pro zvětšování a vylepšování obrázků. Tvrdí, že používá pokročilé algoritmy počítačového vidění ke zvýšení rozlišení obrázků až 4x při zachování detailů a textur původního obrázku. Nabízí také mobilní aplikaci pro systémy iOS a Android. Důležité: Zdarma verze, konec pixelových obrázků!
+
+Cesta: Obrázky - Upravit:
+
+Další...
+
+Watermarkremover.io Tato aplikace slouží k odstranění vodoznaků z různých obrázkových souborů jako je JPG, PNG a další. Je zdarma k použití, ale má menší problém – pokud se na obrázku nachází barva podobná té, která se nachází ve vodoznaku, tak aplikace nedokáže odstranit vodoznak správně. Cutout.Pro Tato platforma pro úpravu obrázků využívá umělou inteligenci a nabízí širokou škálu nástrojů, včetně odstraňování pozadí obrázků, upscalingu fotografií, rozptylu pozadí, generování uměleckých děl, výřezu obličeje, obarvování fotografií a tvorby fotografií pro občanské průkazy a pasy. Důležité: Zdarma verze, spousta funkcí, které stojí za prozkoumání
+
+Cesta: Obrázky - Obnovit:
+
+Deep Nostalgia
+
+je software, který se snaží dát vloženou fotografii do animace. Velice záleží na úhlu a barevnosti fotografie. Animace se ne vždy zdaří. Může to být i docela strašidelné, když vidíte své předky, jak se znovu hýbou… Důležité: Zdarma, čeština, jednoduché animace
+
+Návod/ukázka:
+
+Ukázka použítí
+
+Cesta: Obrázky - Obnovit:
+
+AI Time Machine
+
+je funkce, která využívá umělou inteligenci k vytváření hyperrealistických avatarů člověka, jak mohl vypadat v různých historických obdobích. Uživatel může nahrát 10-25 svých fotografií v různých pózách a na různém pozadí a poté vybrat své pohlaví a titul. Důležité: Zdarma, čeština
+
+Cesta: Obrázky - Obnovit:
+
+GFP-GAN
+
+je volně dostupný software, který dokáže vyhladit fotografii a dodělat její detaily, pokud je například pomačkaná, poškrábaná nebo byla zmuchlaná. Fotky se špatným rozlišením nedokáže moc zlepšit, lépe se mu dělá na černobílých fotkách. Důležité: Zdarma, opensource dostupný na Githabu
+
+Cesta: Obrázky - Scanovat:
+
+Luma AI
+
+je software pro vytváření 3D scannů. Je to jednoduché – na mobilu nahrajete video objektu a to pak vložíte do aplikace. Vytvoří se 3D model vašeho objektu, který se dá dále exportovat. Umožňuje i přidání greenscreenu. Důležité: Beta verze, na iOS stažitelné zdarma, na Androidu nelze (náhrada: Polycam)
+
+Návod/ukázka:
+
+Ukázka použítí (anglicky)
+
+Cesta: Obrázky - Scanovat:
+
+img2prompt
+
+je volně dostupný software, který napíše prompt pro vložený obrázek. Prompt je ve stylu, kterému rozumí všechny umělé inteligence na vytváření obrázků a po vložení dokáží vytvořit podobné obrázky. Důležité: Zdarma, opensource dostupný na Githabu
+
+Cesta: Obrázky - Scanovat:
+
+Monster Mash
+
+je nový modelovací a animační nástroj založený na náčrtech, který umožňuje rychle nakreslit objekt, „nafouknout“ ho do 3D a ihned ho animovat. Všechny úpravy můžete provádět v rámci 2D kreslení. Není nutná žádná manipulace s 3D. Důležité: Zdarma, horší uživatelské prostředí
+
+Cesta: Obrázky - Scanovat:
+Cesta: Video - Generovat:
+
+BHuman.ai
+
+umožňuje personalizaci videí. Po nahrání základního videa můžete vkládat proměnné jako je jméno, titul nebo místo. Dále lze přiložit tabulku s daty a Bhuman.ai vytvoří mnoho verzí videa v závislosti na počtu dat. Osobní emaily s personalizovanými nahrávkami jsou mnohem účinnější a osobnější. Pokud upravíte přepis mluveného slova zvládne i češtinu. Důležité: freetrial, angličtina
+
+Návod/ukázka:
+
+Ukázka použítí (anglicky)
+
+Cesta: Video - Generovat:
+
+synthesia
+
+je aplikace, která generuje avatary, kteří mluví za vás. Umožňuje výběr z knihovny avatarů a také nahrání vlastního videa, ze kterého se vytvoří osobní avatar. Důležité: freetrial, čeština
+
+Cesta: Video - Generovat:
+
+invideo
+
+je aplikace, která umožňuje tvorbu krátkých videí. Aplikace pracuje tak, že k zadané větě přidá odpovídající pozadí. Uživatelé mají možnost doplnit vlastní obrázky a využít pěkný a uživatelsky přívětivý editor.  Důležité: zdarma verze, rozlišení 1080P
+
+Cesta: Video - Generovat:
+
+Další...
+
+PICTORY, lumen5
+
+jsou aplikace, které umožňují tvorbu krátkých videí. Stejně jako aplikace InVideo, i tyto aplikace pracují tak, že k zadané větě přidají odpovídající pozadí. Umožňují také doplnění vlastních obrázků a nabízí rozlišení (lumen5 – 750P a PICTORY – 1080P). Lumen5 má také bezplatnou verzi. D-ID je aplikace, která umožňuje generování avatarů, kteří mluví za vás. Umožňuje výběr z předem připravených avatarů, ale také přidání vlastního obrázku avatara. Uživatelé mají také možnost nahrát vlastní hlasové nahrávky. Aplikace podporuje češtinu a nabízí bezplatné zkušební období. DESIGNS.AI je aplikace, která umožňuje tvorbu videí na základě textové předlohy. Tento proces je podobný tvorbě animovaných prezentací. Aplikace se snaží rozlišit jednotlivá slova a přiřadit jim odpovídající animaci. Aplikace podporuje češtinu. Kaiber je aplikace, která se snaží vytvořit animaci na základě vloženého obrázku a popisku. Aplikace vypadá velice futuristicky a zajímavě. Aplikace nabízí bezplatné zkušební období.
+
+Cesta: Video - Upravit:
+
+runway
+
+je aplikace, která umožňuje snadné přidání zeleného pozadí a popředí do videa. Dále aplikace nabízí funkci multiplikování prvků v obraze a poskytuje uživatelsky přívětivý editor. Důležité: zdarma verze, 4K video, úprava obrázků 
+
+Cesta: Video - Upravit:
+
+muse.ai
+
+je aplikace pro vytváření videa a následnou úpravu pomocí textu. Také umožňuje vytvoření HTML odkazu na video pro web a rozdělení videa na scény, lidi a objekty. Důležité: freetrial, 4K video
+
+Cesta: Video - Upravit:
+
+Wisecut
+
+pomůže se setříhaním dlouhého videa na TikTok formát, nebo třeba na 4minutové youtube video. Stačí vložit dlouhé video a AI z něj vystříhá mezery, nepodstatné části a upraví zvuk. Důležité: zdarma verze, angličtina
+
+Cesta: Video - Upravit:
+
+Další...
+
+Descript, PICTORY
+
+jsou aplikace umožňující úpravu podcastů a videí. Stačí změnit text a automaticky se změní i video nebo podcast. Dále umožňují snadné přidávání titulků. Adobe Premiere Pro je výborná a profesionální aplikace na stříhání videa, ale zároveň aplikace sloužící k natahování a zkracování zvuku, která dokáže automaticky nastříhat video. Dále umožňuje vystřihnutí pauz z videa a sledování zvoleného objektu, například obličeje. Filmora je klasický video editor podobný programu Davinci Resolve nebo Adobe Premiere Pro. Mezi jeho funkce patří například AI umožňující umisťování lidí bez použití greenscreenu. Stačí jen přibližně označit část, kterou chceme zachovat a AI vybere celou postavu/objekt, atd.. Repurpose.io je aplikace, která umožňuje transformaci video obsahu na všechny možné platformy, například z YouTube nebo TikToku na Instagram shorts a naopak. Nabízí také 14denní zkušební verzi zdarma.
+
+Cesta: Podnikání – Detekce AI:
+
+GPTKit
+
+detekuje text generovaný umělou inteligencí. Řekne, jestli text napsal člověk, AI nebo byl někde zkopírován a to s přesnosti kolem 93 %, což ho řadí mezi nejúspěšnější software v dané kategorii. Tento nástroj je vhodný pro podnikatele, učitele, odborníky nebo třeba studenty. Důležité: free trial, čeština
+
+Cesta: Podnikání – Detekce AI:
+
+WordAi
+
+je aplikace, která umožňuje přepsat jakýkoliv text na vyšší úroveň, aniž by bylo možné zjistit, že text napsala umělá inteligence.  Důležité: freetrial, angličtina
+
+Cesta: Podnikání – Detekce AI:
+
+CheckforAi
+
+detekuje texty psané umělou inteligencí. Pro detekci používá model od společnosti Open AI a ještě vlastní model pro snížení počtu falešných čtení. Umožňuje analyzovat texty i dokumenty. Důležité: Zdarma, čeština, neudává % pravdivosti
+
+Cesta: Podnikání - Finance:
+
+AlphaResearch
+
+je platforma, která poskytuje vyhledávač poháněný umělou inteligencí, jenž investorům pomáhá získávat informace z nestrukturovaných textů, dokumentů a výkazů zisků. Platforma rovněž poskytuje nástroje pro screening akcií a vizualizaci dat, jakožto i doplněk pro Excel a Google Sheets. Důležité: free trial, angličtina
+
+Cesta: Podnikání - Finance:
+
+Finalle.ai
+
+je platforma pro finanční zpravodajství založená na datech médií a technologiích umělé inteligence. Platforma agreguje a analyzuje obrovské množství finančních zdrojů, aby investorům poskytla komplexní pohled na trh a jeho hybné síly v reálném čase. Důležité: Zdarma, angličtina
+
+Cesta: Podnikání - Finance:
+
+DoNotPay
+
+je aplikace, která funguje jako robotický právník, specializovaný na řešení menších právních problémů. Pokud máte problémy se správními úřady v USA nebo Velké Británii nebo pokud po vás tamní instituce po vaší dovolené chtějí zaplatit pokuty, poplatky za aplikace nebo nechtějí stornovat letenky, parkovací pokuty a podobně, aplikace Do not pay vám dokáže pomoci. Důležité: placené, angličtina
+
+Cesta: Podnikání - Marketing:
+
+Jasper
+
+je aplikace, která obsahuje spousty nástrojů a je zaměřena na oblasti businessu, marketingu a reklamy. Nabízí plnou podporu a specializaci na marketingové problémy. Vytváří blogy, reporty, příspěvky, obrázky a další… Zároveň obsahuje bota, který si s vámi bude povídat o čemkoliv, co se týká marketingu.  Důležité: placené, čeština
+
+Cesta: Podnikání - Marketing:
+
+textio
+
+je aplikace, která v napsaném textu vyhledává všechny nepřesnosti, týkající se zaměření na věkovou skupinu, pohlaví a zájmy. Dále ukazuje pravděpodobný dosah u publika a poradí s vylepšením textu. Tato aplikace je dostupná pouze v angličtině a nabízí demo verzi. Důležité: zatím demo verze, angličtina
+
+Cesta: Podnikání - Marketing:
+
+AdCreative.ai
+
+je aplikace, která vytváří reklamy pomocí umělé inteligence. Na základě loga, barev a obsahu dokáže vytvořit plakáty, příspěvky a další typy reklam. Tento software je poměrně zajímavý a dá se efektivně využít. Důležité: 7denní zkušební verze, angličtina
+
+Cesta: Podnikání - Marketing:
+
+Další...
+
+Deeply.cz je placená aplikace, která je podobná ChatGPT a je zaměřena na business, marketing a reklamní otázky. Oproti předchozím je zaměřena na češtinu.
+
+Browse AI představuje nejlepší nástroj pro kopírování a vkládání textu na světě. Aplikace obsahuje funkci, která umožňuje uživateli vybrat prvek, na jakékoliv stránce, pro pravidelné monitorování. Poté se spustí výstup, který lze snadno sdílet, ukládat nebo streamovat. Tuto aplikaci lze využít pro monitorování různých číselných i písemných hodnot (například návštěvnost webových stránek). Navíc je k dispozici 100 kreditů zdarma.
+
+Cesta: Podnikání - Inspirace:
+
+ChatGPT
+
+Odpovídá na otázky a hledá informace na různá témataPomáhá s úkoly a projekty z různých oblastíPoskytuje doporučení, poradenství a hlavně pořádnou dávku inspirace Příklady odvětví, ve kterých může pomoci: vzdělávání, zdravotnictví, cestování, marketing, technologie, finance, programování, generování textu a mnoho dalších…
+
+Návod/ukázka:
+
+Ukázka použítí GPT 3.5 vs GPT 4
+
+Cesta: Podnikání - Inspirace:
+
+CoolAIid
+
+nabízí nápady na interiérový design s využitím umělé inteligence, na výběr je více než 20 stylů a inspiraci můžete získat pro jakoukoli místnost v domě. Uživatelé si také mohou svůj domov vyzdobit přidáním koberce, galerie, atd… Důležité: free trial, angličtina
+
+Cesta: Podnikání - Inspirace:
+
+AI Playlist Maker
+
+je nejlepší aplikace pro vytváření playlistů na Spotify a Apple Music. Vytvářejte playlisty z podnětů umělé inteligence, obrázků, videí a nejposlouchanější hudby. Důležité: Zdarma, iOS, Android verze není (náhrada: Groovifi)
+
+Cesta: Podnikání - Inspirace:
+
+Další...
+
+AI Recipe Generator Generátor receptů nabízí rychlý a snadný způsob vytváření vlastních receptů. Stačí si vytvořit účet, zadat ingredience, které máte doma, a webová stránka vám zašle jedinečný recept na váš e-mail. !Placené! ChefGPT Nabízí to samé, ale má 5 receptů měsíčně zdarma.
+
+Cesta: Podnikání - Produktivita:
+
+Timely
+
+je aplikace pro sledování výkonnosti nebo druhu práce na počítači. Obsahuje AI, která zajišťuje následné vkládání do kalendáře a sumarizaci. Je vhodná pro celou skupinu lidí. Důležité: freetrial, spolupráce s Asana, Google, Azure AD
+
+Návod/ukázka:
+
+Ukázka použítí
+
+Cesta: Podnikání - Produktivita:
+
+Heyday
+
+pomáhá zapamatovat si více informací, které jste zjistili při prohlížení webu. Automaticky ukládá navštívené stránky a znovu je zobrazuje spolu s výsledky vyhledávání, dokumenty, zprávami, atd…  Lze jej přidat do prohlížeče pomocí rychlého a snadného nastavení. Důležité: free trial, angličtina
+
+Cesta: Podnikání - Produktivita:
+
+CheatLayer
+
+Představte si nástroj podobný Zapieru, Make nebo IFTTT, kde můžete vytvářet automatizace propojením různých nástrojů. Přesně to dělá Cheat Layer (ano, je to divný název). Cheat Layer však využívá výhod GPT-4 a umožňuje tyto automatizace vytvářet pomocí popisu toho, čeho potřebujete dosáhnout. Cheat Layer za vás sestaví automatizaci a vytvoří propojení mezi nástroji. Důležité: Pouze placené, Chrome rozšíření
+
+Cesta: Podnikání - Produktivita:
+
+Další...
+
+Rewind je aplikace pouze pro iOS systém. Nahrává veškeré věci, které vidíte na obrazovce, řeknete, anebo uslyšíte. Ukládá tyto informace v extrémně zkomprimované verzi do vašeho úložiště. Následně v nich můžete cokoliv hledat pomocí AI.
+
+Cesta: Podnikání - Grafika:
+
+Gamma
+
+je nástroj, který umožňuje snadno vytvářet prezentace, webové stránky nebo dokumenty. Z jednoduchého počátečního promptu vytvoří návrh například prezentace. Uživatelům také umožňuje vkládat GIFy, videa, grafy a zároveň poskytuje vestavěné analytické funkce a funkce pro spolupráci. Všechny vygenerované věci se dají lehce upravovat a následně exportovat v PDF. Důležité: freetrial, angličtina
+
+Návod/ukázka:
+
+Ukázka použítí (anglicky)
+
+Cesta: Podnikání - Grafika:
+
+DESIGNS.AI
+
+je aplikace sloužící k tvorbě loga podle nastavených parametrů. Zadáte název firmy, barvy, myšlenky a AI vám vytvoří různá loga, plakáty a propagační materiál. Avšak, loga vytvořená touto aplikací mohou být velmi obecná a málo nápaditá. Aplikace umožňuje exportovat výsledné logo ve formátech SVG, PNG a PDF. Důležité: freetrial, angličtina
+
+Cesta: Podnikání - Grafika:
+
+beautiful.ai
+
+Tato aplikace umožňuje tvorbu prezentací v angličtině s pomocí ChatGPT. Nabízí uživatelsky přívětivé vytváření prezentací s krásnou generovanou grafiku. Důležité: freetrial, angličtina
+
+Cesta: Podnikání - Grafika:
+
+Další...
+
+Watermarkremover.io Tato aplikace slouží k odstranění vodoznaků z různých obrázkových souborů jako je JPG, PNG a další. Je zdarma k použití, ale má menší problém – pokud se na obrázku nachází barva podobná té, která se nachází ve vodoznaku, tak aplikace nedokáže odstranit vodoznak správně. Looka je aplikace sloužící k tvorbě loga podle nastavených parametrů (stejně jako DESIGNS.AI). Zadáte název firmy, barvy, myšlenky a AI vám vytvoří různá loga. Dle mého názoru jsou tato loga nápaditější, ale ruku do ohně bych za to nedal.   Powerpoint + ChatGPT + Návrhář V ChatGPT si necháte vypsat obsah prezentace (např. v bodech), následně si text nakopírujete do Powerpointu. Nakonec si pomocí (Domů > Designer) necháte vytvořit návrhy designu jednotlivých slidů podle obsahu. tome je aplikace, která generuje celé prezentace. Stačí zadat téma nebo obsah a Tome vygeneruje celou prezentaci i s textem a obrázky. Nedokáže dělat logické body, podle kterých by se dalo přednášet.
+
+Cesta: Podnikání – Sociální media:
+
+MarketingBlocks
+
+„Lidem podobný“ marketingový asistent, který během několika minut napíše/vytvoří/navrhne všechny vaše vstupní stránky, propagační videa, reklamy, marketingové kopie, grafiku, atd… Důležité: Zdarma verze, angličtina
+
+Cesta: Podnikání – Sociální media:
+
+AdCreative.ai
+
+je aplikace, která vytváří reklamy pomocí umělé inteligence uzpůsobené jakékoliv sociální síti. Na základě loga, barev a obsahu dokáže vytvořit plakáty, příspěvky a další typy reklam. Tento software je poměrně zajímavý a dá se efektivně využít. Důležité: 7denní zkušební verze, angličtina
+
+Cesta: Podnikání – Sociální media:
+
+Repurpose.io
+
+je aplikace, která umožňuje transformaci video obsahu na všechny možné platformy, například z YouTube nebo TikToku na Instagram shorts a naopak. Nabízí také 14denní zkušební verzi zdarma. Důležité: freetrial Podporuje: YouTube, TikTok, Instagram, Facebook, Zoom, Google Drive, Dropbox
+
+Cesta: Volný čas - Zábava:
+
+Character.AI
+
+Charakter.ai je zajímavá chatovací umělá inteligence, která slouží k hraní a zkoušení. Nabízí velké množství osobností a fiktivních postav, avšak v češtině není tak obratná a může obsahovat docela velké nepřesnosti. Důležité: Beta verze, zadarmo
+
+Cesta: Volný čas - Zábava:
+
+BANTERAI
+
+je aplikace, která umožňuje zavolat Muskovi, Bidenovi nebo třeba Trumpovi a dalším… Můžete s jejich AI dvojníky mluvit o čemkoliv a jak dlouho chcete. Důležité: Zdarma, angličtina
+
+Cesta: Volný čas - Zábava:
+
+Boom.ai
+
+Zadejte téma a vygeneruje se zábavná, znalostní hra, kterou můžete hrát sami nebo s přáteli. !(pokud je odpověď číselná, pravdivé je nejmenší číslo…škoda) Důležité: Zdarma, angličtina
+
+Cesta: Volný čas - Zábava:
+
+Další...
+
+Extrapolate je bezplatný nástroj, který vám umožňuje nahrát fotografii a zjistit, jak budete v budoucnu vypadat. Důležité: Zdarma, (Doufám, že to není pravda :D)
+
+Cesta: Volný čas - Videohry:
+
+Capturelab
+
+je nástroj, který pomáhá hráčům rozvíjet jejich kanály a prezentovat jejich nejlepší herní výkony. Využívá pokročilou technologii umělé inteligence k automatickému zpracování streamovaných relací, identifikaci a zvýraznění nejzajímavějších a nejepičtějších okamžiků. Následně z nich vytvoří videoklipy, které lze upravovat, propojovat a sdílet na různých platformách. Použití je snadné – stačí připojit účet Twitch a nechat Capturelab, aby se postaral o zbytek.  Důležité: Zdarma, až 36 hodin nahrávání na jeden zátah
+
+Cesta: Volný čas - Videohry:
+
+Leonardo.Ai
+
+nabízí spousta možností, jako je generování obrázků pomocí vybraného designu nebo vytvoření vlastní databáze designů. Umožňuje úpravy obrázků v Canva editoru a má uživatelsky přívětivé nastavení parametrů. Je přímo uzpůsobený na vytváření herních charakterů a herních prvků. Důležité: 170 obrázků denně, zdarma, angličtina
+
+Cesta: Volný čas - Videohry:
+
+Poly
+
+je nástroj s umělou inteligencí, který umožňuje návrhářům generovat 3D textury s vysokým rozlišením, které lze následně upravovat a exportovat Důležité: Zdarma verze, komerčně licencované
+
+Cesta: Kódy - Prompty:
+
+Ordinary People Prompts
+
+je webová stránka, která poskytuje uživatelům zázemí pro zkoumání a vytváření promptů generovaných umělou inteligencí. Nabízí platformu pro sdílení, komentování a hlasování o promptech. Důležité: Zdarma, angličtina
+
+Cesta: Kódy - Prompty:
+
+MidJourney Prompt Helper
+
+je výkonný nástroj od společnosti MidJourney, který uživatelům umožňuje snadno generovat komplexní prompty během několika sekund, a to pomocí snadno nastavitelných parametrů. Důležité: Zdarma, pro začátečníky, angličtina
+
+Cesta: Kódy - Prompty:
+
+FlowGPT
+
+Sdílejte, objevujte a poznávejte nejužitečnější prompty ChatGPT, které vám pomohou zefektivnit úkoly a zvýšit produktivitu. Důležité: Zdarma, angličtina
+
+Cesta: Kódy - Generovat:
+
+Codeium
+
+je programátorské vylepšení, které vývojářům umožňuje rychle provádět změny v neznámých jazycích a kódových sadách pomocí přirozeného jazyka. Zároveň nabízí možnosti, jak v kódu pokračovat dál. Podporuje jazyky Python, CSS, JavaScript, Java, Regex a další… Důležité: Zdarma verze, angličtina, pro jednotlivce „napořád zdarma“
+
+Cesta: Kódy - Generovat:
+
+ChatGPT
+
+Odpovídá na otázky a hledá informace na různá témata.Co se týče programování: pomáhá s kódy a projekty v různých jazycích.Dokáže kód vytvořit nebo ho i upravit, dle přesného slovního zadání. Je velice schopný v reprodukování části kódu, vždy s trochu jinými prvky…
+
+Návod/ukázka:
+
+Ukázka použítí GPT 3.5 vs GPT 4
+
+Cesta: Kódy - Generovat:
+
+codesnippets
+
+je nástroj, který využívá sílu umělé inteligence a pomáhá vývojářům vytvořit vlastní knihovnu kódů. Nástroj podporuje funkce, jako je generování kódu, ladění kódu, inteligentní doplňování kódu, atd… Umožňuje také uživatelům sdílet své části kódu se svým týmem a generovat vysvětlení kódu v přirozeném jazyce pro zlepšení čitelnosti. Důležité: Free trial, pro studenty za 2$ měsíčně, poháněno ChatGPT & GPT-4
+
+Cesta: Zvuk - Hudba:
+
+Soundraw
+
+pomocí umělé inteligence můžete generovat zcela novou hudbu. Zvolte si žánr, délku, míru energie a dokonce můžete upravit i energii a tempo v různých částech skladby. Důležité: Zdarma verze, bez hlasů
+
+Návod/ukázka:
+
+Ukázka použítí (anglicky)
+
+Cesta: Zvuk - Hudba:
+
+Vocal Remover
+
+Tato bezplatná online aplikace pomáhá uživatelům odstranit z písně vokály a vytvořit její karaoke verzi. K oddělení vokálů od instrumentálních složek používá umělou inteligenci. Po výběru písně trvá zpracování obvykle 10 sekund.  Důležité: Zdarma, získáte dvě verze upravené písničky
+
+Cesta: Zvuk - Hudba:
+
+Mubert
+
+je platforma pro tvůrce obsahu, která umožňuje generovat, vytvářet a zpřístupňovat hudbu bez poplatků. Nabízí produkty jako Mubert Render, Mubert Studio, Mubert API, Mubert Play a Mubert for Streamers.  Důležité: Zdarma verze, generování na bázi podobných písní
+
+Cesta: Zvuk - Podcasty:
+
+Adobe Speech Enhancer
+
+Odstranění šumu na pozadí z hlasových nahrávek. Díky vylepšení řeči zní hlasové nahrávky, jako by byly nahrány v profesionálním studiu. Důležité: Zdarma, Beta verze
+
+Návod/ukázka:
+
+Ukázka použítí
+
+Cesta: Zvuk - Podcasty:
+
+TIMEBOLT
+
+je jednoduchý editor videa a podcastů, který dokáže automaticky vystříhávat zbytečné ticho, zrychlovat části videa nebo zaostřovat podle potřeby. Důležité: Zdarma verze, export do pc nebo dalšího editoru (DaVinci Resolve)
+
+Cesta: Zvuk - Podcasty:
+
+Wisecut
+
+pomůže se setříhaním dlouhého videa na TikTok formát, nebo třeba na 4minutové youtube video. Stačí vložit dlouhé video a AI z něj vystříhá mezery, nepodstatné části a upraví zvuk. Důležité: zdarma verze, angličtina
+
+Cesta: Zvuk – úprava hlasu:
+
+voice.ai
+
+dokáže měnit váš hlas při streamování/hovoru na hlas různých celebrit nebo známých postav. Přeměna je okamžitá a bez zpoždění. Důležité: Zdarma, Beta verze, podpora všech jazyků, ale angličtina je optimalizována
+
+Návod/ukázka:
+
+Ukázka použítí (anglicky)
+
+Cesta: Zvuk – úprava hlasu:
+
+Adobe Speech Enhancer
+
+Odstranění šumu na pozadí z hlasových nahrávek. Díky vylepšení řeči zní hlasové nahrávky, jako by byly nahrány v profesionálním studiu. Důležité: Zdarma, Beta verze
+
+Cesta: Zvuk – úprava hlasu:
+
+METAVOICE
+
+je editor vašeho hlasu. Hodí se, pokud si potřebujete zachovat anonymní identitu a nechcete nahrávat na internet vlastní hlas. Dokáže transformovat váš hlas, aby zněl jinak, ale aby zachovával emoce a důraz hlasu. Důležité: zdarma verze, angličtina
+
+Cesta: Hledání:
+
+Perplexity AI
+
+je vyhledávač, který umožňuje uživatelům pokládat otázky jako do Bingu, ale získávat textové odpovědi se souhrnnými zdroji a citacemi. Zadáte, co hledáte a vyjede vám ozdrojovaný text s odpovědí a zároveň „klasický výsledek“ Bing vyhledávače. (prostě nemusíte rozklikávat odkazy, ale máte vše shrnuto v přehledném a krátkém textu. Důležité: Zdarma, (čeština)
+
+Cesta: Hledání:
+
+YOU.com
+
+je vyhledávač uzpůsobený pro Microsoft Edge. Zadáte hledaný výraz a automaticky se otevře chat, ve kterém vám bot popisuje, co našel. Zároveň vyhazuje klasické odkazy. V ostatních ohledech funguje stejně, jako ostatní vyhledávače. Důležité: Zdarma, !angličtina!
+
+Cesta: Hledání:
+
+WebChatGPT
+
+rozšiřuje ChatGPT o relevantní výsledky z internetu. Toto rozšíření přidává relevantní webové výsledky k vašim promptům do ChatGPT, abyste mohli. ChatGPT má informace pouze prostřednictvím 2021 a neumí vyhledávat na webu. Tento nástroj přidává do vašich výsledků vyhledávání novější data. Důležité: zdarma, angličtina, pouze Chrome
